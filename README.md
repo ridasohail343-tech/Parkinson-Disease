@@ -2,6 +2,7 @@
 
 ## Overview
 This project uses Machine Learning to classify voice measurements into Parkinson's and healthy control groups using the Parkinson's dataset.
+https://parkinson-disease-eyd5tnkqekeqbr4gbdjgeo.streamlit.app/
 
 ## Algorithms
 - Logistic Regression
